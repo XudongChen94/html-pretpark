@@ -1,5 +1,4 @@
-<h1>Simpele pretpark website<br/> 
-</h1>
+<h1>Simpele pretpark website</h1>
 <p>Gemaakt met HTML, CSS en Javascript <hr/></p>
   <h2>Uitleg website <hr/></h2>
  <p> Om de website te gebruiken moet alle bestanden gedownload worden. De website wordt opgestart via index.html, hiermee komt de hoofdpagina tevoorschijn. 
