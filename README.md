@@ -2,7 +2,7 @@
 <h1>Simpele pretpark website<br/> 
 </h1>
 <p>Gemaakt met HTML, CSS en Javascript <hr/></p>
-  <h2>Uitleg website</h2>
+  <h2>Uitleg website <hr/></h2>
  <p> Om de website te gebruiken moet alle bestanden gedownload worden. De website wordt opgestart via index.html, hiermee komt de hoofdpagina tevoorschijn. 
   Vanuit de hoofdpagina kan de bezoeker klikken op de link Over ons om informatie te krijgen over de ontwikkelaar van de website. 
   Verder kan de bezoeker klikken op Contact om contact op te nemen via een contactformulier.
