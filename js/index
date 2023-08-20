@@ -1,0 +1,8 @@
+
+const button = document.querySelector(".knopFotos");
+
+function bekijkFotos() {
+    document.location.href = "../Pretpark/login-page.html"; 
+}
+
+button.addEventListener("click", bekijkFotos, false);
